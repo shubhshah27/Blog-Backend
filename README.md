@@ -1,1 +1,1 @@
-Hello guys this is frontend for Blog web application where user can upload ,update their blogs
+Hello guys this is backend of Blog web application where all backend logic is written to upload ,update  blogs
